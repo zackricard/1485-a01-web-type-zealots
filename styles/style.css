@@ -30,3 +30,17 @@ a:hover {
 a:active {
     color: #0000FF;
 }
+
+aside {
+  float: left;
+  width: 25%;
+  margin-right:3%;
+  background-color: grey;
+}
+
+
+.main {
+  float:left;
+  width:75%;
+  max-width: 760px;
+}
