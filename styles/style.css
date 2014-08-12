@@ -2,10 +2,19 @@
 /* CSS Document */
 
 h1 {
-	background-color:red;
+	background-color:gray;
 	font-size: 36px;
+	
+
 	}
 	
+	
+h2 {
+	background-color:gray;
+	font-size: 30px;
+	
+
+	}
 .left {
 	float: left;
 }
@@ -48,4 +57,11 @@ aside {
 footer{
 	clear:both;
 }
+	.split-column {
+		width:50%;
+		float:left;
+	}
 	
+	 body {
+    background: #d1d1d1 url('smiley.gif') no-repeat fixed center;
+} 
